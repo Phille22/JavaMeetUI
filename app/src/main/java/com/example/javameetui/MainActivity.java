@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-    private int value = 0;
+    private int value = 1;
 
     private Button btnAdd;
     private Button btnTake;
