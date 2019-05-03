@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Java Meet UI</string>
+    <string name="btnAdd">add</string>
+    <string name="btnTake">take</string>
+    <string name="btnGrow">grow</string>
+    <string name="btnShrink">shrink</string>
+    <string name="btnHide">hide</string>
+    <string name="btnReset">Reset</string>
+    <string name="txtValue">0</string>
+    <string name="btnHideSetTextHide">show</string>
+    <string name="btnColor">Color</string>
+</resources>
